@@ -88,10 +88,6 @@
 
 #### Thank You-🙏🏼
 
-
-
-⭐️ From [8bithemant](https://github.com/8bithemant
-
 <!--
 **Bassour72/Bassour72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
