@@ -24,7 +24,7 @@ Welcome to my Github page! I am Younes.
 - Exercising 3 days a week
 - Improving my CV with some education apart from self-education
 
-#### :computer: Programming languages and tools: 
+### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
 
