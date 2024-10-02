@@ -44,13 +44,13 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <p align="left">
 <img style="margin: auto;" src="https://github.com/user-attachments/assets/22cd6457-fae6-4966-b32b-708159db8ad9" alt=cplusplus width="60" height="60"/>
  <img style="margin: auto;" src="https://github.com/user-attachments/assets/d8e196f1-8482-43c4-99a1-5a9824b86da0" alt=c width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
+ <img style="margin: auto;" src="https://github.com/user-attachments/assets/39eb5327-574f-437e-b119-132fec50928c" alt=python width="60" height="60"/>
 </p>
 
 <h4>Skills and Tools: </h4>
 <p align="left">
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
+  <img style="margin: auto;" src="https://github.com/user-attachments/assets/ccb29477-f591-4da2-af0c-20d80541a94d" alt=git width="60" height="60"/>
+  <img style="margin: auto;" src="https://github.com/user-attachments/assets/b3ac6854-d996-43cd-b61d-70780a6703dc" alt=github width="60" height="60"/>
 </p>
 
 <h4>Desktop Environment: </h4>
