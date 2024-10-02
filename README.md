@@ -3,7 +3,7 @@
 
 <!-- Your badges -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Bassour72/Bassour72)
-[![Linkedin](https://img.shields.io/badge/-younesbassour-blue?style=flat&logo=Linkedin&logoColor=white)]https://www.linkedin.com/in/younes-bassour-00a94924a/
+[![Linkedin](https://img.shields.io/badge/-Younes-Bassour-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/younes-bassour-00a94924a/)
 [![Telegram](https://img.shields.io/badge/-@joykishan_sharma-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/youbass12) 
 [![Discord](https://img.shields.io/badge/-Joykishan-islamicgreen?style=flat&logo=Discord&logoColor=blue)](https://www.Discord.com/)
 [![Medium](https://img.shields.io/badge/-@joykishan120-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@joykishan120)
