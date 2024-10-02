@@ -18,7 +18,7 @@ Welcome to my Github page! I am Younes.
 - 
 - 
 
-#### :muscle: Things I am challenging myself with:
+#### :muscle:  Challenges that I’m currently challenging myself::
 - Waking up earlier to make good use of the day
 - Coding at least 4 hours a day
 - Exercising 3 days a week
