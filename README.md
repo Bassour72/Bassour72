@@ -56,9 +56,9 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <h4>Desktop Environment: </h4>
 <p align="left">
   <img style="margin: auto;" src="https://github.com/user-attachments/assets/9d401d2b-35e8-469f-8e3b-432bd7a555bd" alt=vs width="60" height="60"/>
-  <img style="margin: auto;" "![linux]"src="https://github.com/user-attachments/assets/05eee438-7e00-4875-8e8e-619c7ca65150" alt=linux width="60" height="60"/>
-  <img style="margin: auto;" "![ubuntu]"src="https://github.com/user-attachments/assets/1a4951e9-777d-4763-b189-7ece6e4d6723" alt=ubuntu width="60" height="60"/>
-  <img style="margin: auto;" "![win10]"src="https://github.com/user-attachments/assets/4b5cb4b2-b5f8-4808-bd93-8cf050f631d4" alt=windows10 width="60" height="60"/>
+  <img style="margin: auto;" src="https://github.com/user-attachments/assets/05eee438-7e00-4875-8e8e-619c7ca65150" alt=linux width="60" height="60"/>
+  <img style="margin: auto;" src="https://github.com/user-attachments/assets/1a4951e9-777d-4763-b189-7ece6e4d6723" alt=ubuntu width="60" height="60"/>
+  <img style="margin: auto;" src="https://github.com/user-attachments/assets/4b5cb4b2-b5f8-4808-bd93-8cf050f631d4" alt=windows10 width="60" height="60"/>
 </p>
 
 <!--
