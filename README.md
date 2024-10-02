@@ -62,7 +62,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 </p>
 
 <p align="center">
-  <img src="https://github.com/Bassour72/repository-name/blob/main/cover_image.jpg" alt="Cover Image" width="500"/>
+  <img src="https://github.com/user-attachments/assets/083ce073-6483-48e3-9f8a-de2a19ce8c61" alt="Cover Image" width="500"/>
 </p>
 
 
