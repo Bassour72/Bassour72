@@ -6,13 +6,13 @@
 <a href="https://twitter.com">
   <img align="left" alt="| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/hemant-j-85518a195/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com">
+  <img align="left" alt="Linkedin" width="22px" " />
 </a>
-<a href="https://t.me/ihemantjoshi">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://t.me">
+  <img align="left" alt="Telegram" width="22px"  />
 </a>
-<a href="https://www.instagram.com/hemant.gz/">
+<a href="https://www.instagram.com/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.reddit.com/user//">
