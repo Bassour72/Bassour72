@@ -22,7 +22,7 @@ Welcome to my Github page! I am Younes.
 - Waking up earlier to make good use of the day
 - Coding at least 4 hours a day
 - Exercising 3 days a week
-- Improving my CV with some education apart from university
+- Improving my CV with some education apart from self-education
 
 #### :computer: Programming languages and tools: 
 <p>
