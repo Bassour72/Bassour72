@@ -10,7 +10,7 @@
 [![Instagram](https://img.shields.io/badge/-ybassour26-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/ybassour26)
 [![Gmail](https://img.shields.io/badge/-ybassour26-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ybassour26@gmail.com)
 
-Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
+Welcome to my Github page! I am Younes.
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
