@@ -12,7 +12,7 @@
 
 Welcome to my Github page! I am Younes.
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto"/>
+<img align="right" alt="img" src="https://github.com/user-attachments/assets/083ce073-6483-48e3-9f8a-de2a19ce8c61" width="50%" height="auto"/>
 
 
 <p> <!-- GitHub README Stats -->
@@ -60,11 +60,6 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
 </p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/083ce073-6483-48e3-9f8a-de2a19ce8c61" alt="Cover Image" width="500"/>
-</p>
-
 
 <!--
 **Bassour72/Bassour72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
