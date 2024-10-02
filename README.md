@@ -13,6 +13,15 @@
 Welcome to my Github page! I am Younes.
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<p> <!-- GitHub README Stats -->
+  <a href="https://github.com/JoykishanSharma?tab=repositories">
+    <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&theme=algolia&count_private=true" />
+   <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
+  </a>
+</p>
 
 ### 🌱  Things that I'm currently working on: 
 - 
@@ -44,15 +53,7 @@ Welcome to my Github page! I am Younes.
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
 </p>
-<p> <!-- GitHub README Stats -->
-  <a href="https://github.com/JoykishanSharma?tab=repositories">
-    <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&theme=algolia&count_private=true" />
-   <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
-  </a>
-</p>
+
 
 <!--
 **Bassour72/Bassour72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
