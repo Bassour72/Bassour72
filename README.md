@@ -58,7 +58,6 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 
 <h1 align="center">Hi 👋, I'm Younes</h1>
-<h3 align="center">A passionate back-end developer from Morocco</h3>
 
 - 🔭 I’m currently working on **libft**
 
