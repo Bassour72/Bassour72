@@ -44,7 +44,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <p align="left">
 <img style="margin: auto;" src="https://github.com/user-attachments/assets/22cd6457-fae6-4966-b32b-708159db8ad9" alt=cplusplus width="60" height="60"/>
  <img style="margin: auto;" src="https://github.com/user-attachments/assets/d8e196f1-8482-43c4-99a1-5a9824b86da0" alt=c width="60" height="60"/>
- <img style="margin: auto;" src="https://github.com/user-attachments/assets/39eb5327-574f-437e-b119-132fec50928c" alt=python width="60" height="60"/>
+ <img style="margin: auto;" src="https://github.com/user-attachments/assets/f3a6d1b3-dcd8-4e24-a586-23329be5a2fe" alt=python width="60" height="60"/>
 </p>
 
 <h4>Skills and Tools: </h4>
