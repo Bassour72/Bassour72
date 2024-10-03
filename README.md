@@ -53,13 +53,13 @@ Welcome to my Github page! I am Younes.
    <h4>Github Overview</h4>
   <img align="left" alt="Bassour72's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bassour72&show_icons=true" /> 
 <p align="center">
-    <img style="height:12rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=Niefee&theme=radical&show_icons=true&border=e4e2e2" />
+    <img style="height:12rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=Bassour72&theme=radical&show_icons=true&border=e4e2e2" />
 </p>
 <div align="center">
     <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bassour72/Bassour72/master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bassour72/Bassour72/master/assets/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bassour72/bassour72/master/assets/github-contribution-grid-snake.svg">
     </picture>
 </div>
 
@@ -67,7 +67,7 @@ Welcome to my Github page! I am Younes.
 <p align="center"> 
   <div align="center">Visitor count</div>
   <div align="center">
-    <img src="https://profile-counter.glitch.me/Niefee/count.svg"/>
+    <img src="https://profile-counter.glitch.me/Bassour72/count.svg"/>
   </div> 
 </p>
 <!--
