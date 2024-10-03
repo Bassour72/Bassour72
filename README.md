@@ -52,9 +52,9 @@ Welcome to my Github page! I am Younes.
   <img style="margin: auto;" src="https://github.com/user-attachments/assets/4b5cb4b2-b5f8-4808-bd93-8cf050f631d4" alt=windows10 width="60" height="60"/></p>
   ## Github Overview
   <img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TamimEhsan&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamimEhsan)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamimEhsan)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
-## Github Overview
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
  -->
 <!--
