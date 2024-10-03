@@ -51,6 +51,8 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <p align="left">
   <img style="margin: auto;" src="https://github.com/user-attachments/assets/ccb29477-f591-4da2-af0c-20d80541a94d" alt=git width="60" height="60"/>
   <img style="margin: auto;" src="https://github.com/user-attachments/assets/b3ac6854-d996-43cd-b61d-70780a6703dc" alt=github width="60" height="60"/>
+  <img style="margin: auto;" src="https://github.com/user-attachments/assets/ad6dbff0-0e03-40c4-9d49-cb32ab533e6e" alt=bash width="60" height="60"/>
+  <img style="margin: auto;" src="https://github.com/user-attachments/assets/24f9ccae-f6c4-4f6e-97e4-1e68a90ab4bc" alt=ccna width="60" height="60"/>
 </p>
 
 <h4>Desktop Environment: </h4>
