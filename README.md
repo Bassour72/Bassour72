@@ -12,7 +12,7 @@
 
 Welcome to my Github page! I am Younes.
 
-<img align="right" alt="img" src="https://github.com/user-attachments/assets/083ce073-6483-48e3-9f8a-de2a19ce8c61" width="50%" height="auto"/>
+<img align="right" alt="img" src="https://github.com/user-attachments/assets/083ce073-6483-48e3-9f8a-de2a19ce8c61" width="40%" height="auto"/>
 
 
 <p> <!-- GitHub README Stats -->
