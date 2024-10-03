@@ -50,19 +50,13 @@ Welcome to my Github page! I am Younes.
   <img style="margin: auto;" src="https://github.com/user-attachments/assets/05eee438-7e00-4875-8e8e-619c7ca65150" alt=linux width="60" height="60"/>
   <img style="margin: auto;" src="https://github.com/user-attachments/assets/1a4951e9-777d-4763-b189-7ece6e4d6723" alt=ubuntu width="60" height="60"/>
   <img style="margin: auto;" src="https://github.com/user-attachments/assets/4b5cb4b2-b5f8-4808-bd93-8cf050f631d4" alt=windows10 width="60" height="60"/></p>
+  ## Github Overview
   <img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TamimEhsan&show_icons=true" />    &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamimEhsan)](https://github.com/anuraghazra/github-readme-stats) 
 <!--
 ## Github Overview
-<p> <!-- GitHub README Stats -->
-  <a href="https://github.com/Bassour72?tab=repositories">
-    <img width="500" height="500" align=" left" alt="Bassour72's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=Bassour72&show_icons=true&theme=algolia&count_private=true" />
-   <!-- <img width="30%" height="auto" align=" left" alt="Bassour72's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bassour72&layout=compact" />
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
-  </a>
-</p> -->
+ -->
 <!--
 **Bassour72/Bassour72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
