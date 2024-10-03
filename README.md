@@ -17,7 +17,7 @@ Welcome to my Github page! I am Younes.
 
 <p> <!-- GitHub README Stats -->
   <a href="https://github.com/Bassour72?tab=repositories">
-    <img width="400" height="auto" align="right" alt="Bassour72's github stats" 
+    <img width="300" height="auto" align="right" alt="Bassour72's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=Bassour72&show_icons=true&theme=algolia&count_private=true" />
    <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bassour72&layout=compact" />
