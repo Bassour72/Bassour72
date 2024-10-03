@@ -55,6 +55,21 @@ Welcome to my Github page! I am Younes.
 <p align="center">
     <img style="height:12rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=Niefee&theme=radical&show_icons=true&border=e4e2e2" />
 </p>
+<div align="center">
+    <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+    </picture>
+</div>
+
+
+<p align="center"> 
+  <div align="center">Visitor count</div>
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/Niefee/count.svg"/>
+  </div> 
+</p>
 <!--
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
  -->
