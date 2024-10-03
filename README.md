@@ -51,6 +51,7 @@ Welcome to my Github page! I am Younes.
   <img style="margin: auto;" src="https://github.com/user-attachments/assets/1a4951e9-777d-4763-b189-7ece6e4d6723" alt=ubuntu width="60" height="60"/>
   <img style="margin: auto;" src="https://github.com/user-attachments/assets/4b5cb4b2-b5f8-4808-bd93-8cf050f631d4" alt=windows10 width="60" height="60"/>
 </p>
+<!--
 ## Github Overview
 <p> <!-- GitHub README Stats -->
   <a href="https://github.com/Bassour72?tab=repositories">
@@ -60,7 +61,7 @@ Welcome to my Github page! I am Younes.
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bassour72&layout=compact" />
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
   </a>
-</p>
+</p> -->
 <!--
 **Bassour72/Bassour72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
