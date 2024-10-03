@@ -53,7 +53,7 @@ Welcome to my Github page! I am Younes.
    <h4>Github Overview</h4>
   <img align="left" alt="Bassour72's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bassour72&show_icons=true" /> 
 <p align="right">
-    <img style="height:12rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=Bassour72&theme=radical&show_icons=true&border=e4e2e2" />
+    <img style="height:12rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=Bassour72&theme=Bassour72&show_icons=true&border=e4e2e2" />
 </p>
 
 <p align="center"> 
