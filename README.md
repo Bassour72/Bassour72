@@ -54,7 +54,7 @@ Welcome to my Github page! I am Younes.
   <img align="left" alt="Bassour72's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bassour72&show_icons=true" /> 
 
 <!--
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
  -->
 <!--
 **Bassour72/Bassour72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
