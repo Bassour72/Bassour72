@@ -54,7 +54,7 @@ Welcome to my Github page! I am Younes.
   <img align="left" alt="Bassour72's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bassour72&show_icons=true" /> 
   <br/>
 <p align="center">
-    <img style="height:20rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=Niefee&theme=radical&show_icons=true&border=e4e2e2" />
+    <img style="height:12rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=Niefee&theme=radical&show_icons=true&border=e4e2e2" />
 </p>
 <!--
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
