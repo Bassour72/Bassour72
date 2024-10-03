@@ -14,17 +14,6 @@ Welcome to my Github page! I am Younes.
 
 <img align="right" alt="img" src="https://github.com/user-attachments/assets/083ce073-6483-48e3-9f8a-de2a19ce8c61" width="60%" height="auto"/>
 
-
-<p> <!-- GitHub README Stats -->
-  <a href="https://github.com/Bassour72?tab=repositories">
-    <img width="500" height="500" align="right" alt="Bassour72's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=Bassour72&show_icons=true&theme=algolia&count_private=true" />
-   <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bassour72&layout=compact" />
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
-  </a>
-</p>
-
 ### 🌱  Things that I'm currently working on: 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
