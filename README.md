@@ -49,8 +49,9 @@ Welcome to my Github page! I am Younes.
   <img style="margin: auto;" src="https://github.com/user-attachments/assets/9d401d2b-35e8-469f-8e3b-432bd7a555bd" alt=vs width="60" height="60"/>
   <img style="margin: auto;" src="https://github.com/user-attachments/assets/05eee438-7e00-4875-8e8e-619c7ca65150" alt=linux width="60" height="60"/>
   <img style="margin: auto;" src="https://github.com/user-attachments/assets/1a4951e9-777d-4763-b189-7ece6e4d6723" alt=ubuntu width="60" height="60"/>
-  <img style="margin: auto;" src="https://github.com/user-attachments/assets/4b5cb4b2-b5f8-4808-bd93-8cf050f631d4" alt=windows10 width="60" height="60"/>
-</p>
+  <img style="margin: auto;" src="https://github.com/user-attachments/assets/4b5cb4b2-b5f8-4808-bd93-8cf050f631d4" alt=windows10 width="60" height="60"/></p>
+  <img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TamimEhsan&show_icons=true" />    &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamimEhsan)](https://github.com/anuraghazra/github-readme-stats) 
 <!--
 ## Github Overview
 <p> <!-- GitHub README Stats -->
