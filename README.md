@@ -34,7 +34,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 - 📫 How to reach me **mailto:ybassour26@gmail.com**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-#### :muscle:  Challenges that I’m currently challenging myself::
+#### :muscle:  Challenges that I’m currently challenging myself:
 - Waking up earlier to make good use of the day
 - Coding at least 4 hours a day
 - Exercising 3 days a week
