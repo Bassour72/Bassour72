@@ -56,9 +56,9 @@ Welcome to my Github page! I am Younes.
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Bassour72&theme=blue-green&hide_border=true&border_radius=8" alt="GitHub Streak" /> </a>
 </p>
 
-<p align="center"> 
-  <div align="center">Visitor count</div>
-  <div align="center">
+<p align="left"> 
+  <div align="left">Visitor count</div>
+  <div align="left">
     <img src="https://profile-counter.glitch.me/Bassour72/count.svg"/>
   </div> 
 </p>
