@@ -4,7 +4,7 @@ steps:
 # Checks repo under $GITHUB_WORKSHOP, so your job can access it
   - uses: actions/checkout@v2
 
-# Generates the snake  
+# Generates the snake 
   - uses: Platane/snk@master
     id: snake-gif
     with:
