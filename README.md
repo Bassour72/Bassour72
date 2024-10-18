@@ -46,7 +46,7 @@ Welcome to my Github page! I am Younes.
 
 <h4>Desktop Environment: </h4>
 <p align="left">
-  <img style="margin: auto;" src="https://github.com/user-attachments/assets/9d401d2b-35e8-469f-8e3b-432bd7a555bd" alt=vs width="60" height="60"/>
+  <img style="margin: auto;" src="https://github.com/user-attachments/assets/898f0ac7-7a13-4a69-a1fe-4c6ad424cdb9" alt=vs width="60" height="60"/>
   <img style="margin: auto;" src="https://github.com/user-attachments/assets/05eee438-7e00-4875-8e8e-619c7ca65150" alt=linux width="60" height="60"/>
   <img style="margin: auto;" src="https://github.com/user-attachments/assets/1a4951e9-777d-4763-b189-7ece6e4d6723" alt=ubuntu width="60" height="60"/>
   <img style="margin: auto;" src="https://github.com/user-attachments/assets/4b5cb4b2-b5f8-4808-bd93-8cf050f631d4" alt=windows10 width="60" height="60"/>
