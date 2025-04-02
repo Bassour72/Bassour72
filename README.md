@@ -63,10 +63,10 @@ Welcome to my Github page! I am Younes.
   </div> 
 </p>
 -->
-<!--
+
 ![snake gif](https://github.com/Bassour72/Bassour72/blob/output/github-contribution-grid-snake.gif) 
 
-<!--
+
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
  -->
 <!--
