@@ -51,12 +51,17 @@ Welcome to my Github page! I am Younes.
   <img style="margin: auto;" src="https://github.com/user-attachments/assets/1a4951e9-777d-4763-b189-7ece6e4d6723" alt=ubuntu width="60" height="60"/>
   <img style="margin: auto;" src="https://github.com/user-attachments/assets/4b5cb4b2-b5f8-4808-bd93-8cf050f631d4" alt=windows10 width="60" height="60"/>
   <img style="margin: auto;" src="https://github.com/user-attachments/assets/5e116c80-cf30-4f68-81a9-6aab47ecb6b1" alt=vim width="60" height="60"/></p>
- 
-   <h4>Github Overview</h4>
-  <img align="left" alt="Bassour72's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bassour72&show_icons=true" /> 
- <p align="left">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Bassour72&theme=blue-green&hide_border=true&border_radius=8" alt="GitHub Streak" /> </a>
+ <h4>Github Overview</h4>
+<img align="left" alt="Bassour72's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bassour72&show_icons=true" /> 
+
+<br clear="left"/>  
+
+<p align="left">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Bassour72&theme=blue-green&hide_border=true&border_radius=8" alt="GitHub Streak" />
+  </a>
 </p>
+
 <!--
 <p align="left"> 
   <div align="left">Visitor count</div>
