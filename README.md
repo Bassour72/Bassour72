@@ -55,7 +55,7 @@ Welcome to my Github page! I am Younes.
 <img align="left" alt="Bassour72's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bassour72&show_icons=true" /> 
 
 <br clear="left"/>  
-<!--
+
 <p align="left"> 
   <div align="left">Visitor count</div>
   <div align="left">
@@ -65,7 +65,7 @@ Welcome to my Github page! I am Younes.
 -->
 <!--
 ![snake gif](https://github.com/Bassour72/Bassour72/blob/output/github-contribution-grid-snake.gif) 
--->
+
 <!--
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
  -->
