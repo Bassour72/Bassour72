@@ -66,13 +66,3 @@ Welcome to my Github page! I am Younes.
 
 ![snake gif](https://github.com/Bassour72/Bassour72/blob/output/github-contribution-grid-snake.gif) 
 
-
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
- -->
-<!--
-**Bassour72/Bassour72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
