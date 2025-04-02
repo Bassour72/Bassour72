@@ -57,15 +57,17 @@ Welcome to my Github page! I am Younes.
 <p align="left">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Bassour72&theme=blue-green&hide_border=true&border_radius=8" alt="GitHub Streak" /> </a>
 </p>
-
+<!--
 <p align="left"> 
   <div align="left">Visitor count</div>
   <div align="left">
     <img src="https://profile-counter.glitch.me/Bassour72/count.svg"/>
   </div> 
 </p>
-
-![snake gif](https://github.com/Bassour72/Bassour72/blob/output/github-contribution-grid-snake.gif)
+-->
+<!--
+![snake gif](https://github.com/Bassour72/Bassour72/blob/output/github-contribution-grid-snake.gif) 
+-->
 <!--
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
  -->
