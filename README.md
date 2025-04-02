@@ -62,7 +62,7 @@ Welcome to my Github page! I am Younes.
     <img src="https://profile-counter.glitch.me/Bassour72/count.svg"/>
   </div> 
 </p>
--->
+<p>
+ ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 
-![snake gif](https://github.com/Bassour72/Bassour72/blob/output/github-contribution-grid-snake.gif) 
-
+</p>
