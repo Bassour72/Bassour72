@@ -54,9 +54,9 @@ Welcome to my Github page! I am Younes.
  
    <h4>Github Overview</h4>
   <img align="left" alt="Bassour72's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bassour72&show_icons=true" /> 
-<!-- <p align="left">
+ <p align="right">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Bassour72&theme=blue-green&hide_border=true&border_radius=8" alt="GitHub Streak" /> </a>
-</p> -->
+</p>
 <!--
 <p align="left"> 
   <div align="left">Visitor count</div>
