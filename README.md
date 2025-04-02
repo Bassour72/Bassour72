@@ -57,8 +57,8 @@ Welcome to my Github page! I am Younes.
 <br clear="left"/>  
 
 <p align="left">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Bassour72&theme=blue-green&hide_border=true&border_radius=8" alt="GitHub Streak" />
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bassour72&theme=blue-green&hide_border=true&border_radius=8)
+ 
   </a>
 </p>
 
