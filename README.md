@@ -55,13 +55,6 @@ Welcome to my Github page! I am Younes.
 <img align="left" alt="Bassour72's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bassour72&show_icons=true" /> 
 
 <br clear="left"/>  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
-<p align="left">
- <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Bassour72&theme=blue-green&hide_border=true&border_radius=8" alt="GitHub Streak" />
-  </a>
-</p>
-
 <!--
 <p align="left"> 
   <div align="left">Visitor count</div>
