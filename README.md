@@ -15,7 +15,7 @@ Welcome to my Github page! I am Younes.
 <img align="right" alt="img" src="https://github.com/user-attachments/assets/083ce073-6483-48e3-9f8a-de2a19ce8c61" width="60%" height="auto"/>
 
 ### 🌱  Things that I'm currently working on: 
-- 🔭 I’m currently working on Born2beRoot
+- 🔭 I’m currently working on SchoolSystemManagement
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
